@@ -1,0 +1,25 @@
+step 1 -> create student account on microsoft azure.
+
+step2 -> for try we have to create free account.
+	The option of free account is shown at the top of right side.
+
+step3 -> for creating the web application follow the below steps :
+	1. first create the resource
+	2. then select the web apps.
+	3. In the basic part we have to filled the project details, instance details and app services plan.
+	4. thenc lick on next.
+	5. choose option according to you of deployment(review), monitoring, tags.
+	6. then click on review+create for further process.
+	7. then read carefully all detail and then click on create.
+	8. then web application is deploying and it take some time after that click on go to resources.
+	9. In the resources url is displayed for the running the project just copy it and paste in tab.
+
+step4 -> for deploy the code on azurefolow the below step :
+	1. select the source code.
+	2. If you select the gitHub for source code then fill the organization name, repository name, branch name
+	    and then save it.
+	3. successfully code is deployed.
+
+step5 -> After that rest for two to three minute because process can take some time. And then refresh the url page.
+
+step6 -> Your project is successfully runnung.  
